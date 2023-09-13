@@ -1,0 +1,6 @@
+train: /home/avcopan/Documents/Code/prime/opencv-window-recognition/train
+val: /home/avcopan/Documents/Code/prime/opencv-window-recognition/val
+
+nc: 2
+
+names: ['window', 'window-outside']
